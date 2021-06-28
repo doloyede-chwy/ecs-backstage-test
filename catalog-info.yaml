@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: pet-cronus
+  description: scaffold applications and manage application parameters
+  annotations:
+    jenkins.io/github-folder: 'HeroDemo'
+spec:
+  type: service
+  owner: doloyede@chewy.com
+  lifecycle: experimental
