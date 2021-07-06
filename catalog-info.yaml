@@ -4,7 +4,7 @@ metadata:
   name: pet-cronus
   description: scaffold applications and manage application parameters
   annotations:
-    'jenkins.io/job-slug': build-pet-cronus: build-pet-cronus
+    jenkins.io/github-folder: hero-demo
 spec:
   type: service
   owner: doloyede@chewy.com
